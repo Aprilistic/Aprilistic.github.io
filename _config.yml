@@ -11,7 +11,7 @@ locale:             ko-KR
 url:                https://github.com/Aprilistic
 
 # Jekyll
-permalink:          /:title/
+#permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
