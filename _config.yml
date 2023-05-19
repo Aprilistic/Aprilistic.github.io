@@ -1,17 +1,17 @@
 # Site
 title:              Jinho Heo
 bio:                'Jinho Heo's development blog.'
-description:        'Jinho Heo's development blog.'
+description:        "Jinho Heo's development blog."
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             ko-KR
-url:                https://github.com/Aprilistic
+locale:             ko_KR
+url:                https://aprilistic.github.io
 
 # Jekyll
-#permalink:          /:title/
+permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
