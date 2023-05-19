@@ -1,7 +1,7 @@
 # Site
-title:              "Jinho Heo"
-bio:                'Jinho Heo's development blog'
-description:        "Jinho Heo's development blog"
+title:              Jinho Heo
+bio:                'Jinho Heo's development blog.'
+description:        "Jinho Heo's development blog."
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo.png'
